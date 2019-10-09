@@ -39,4 +39,16 @@ PSS + Style Transfer
 
 - [Texture Synthesis by Non-parametric Sampling](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/efros-iccv99.pdf)
 
-- 
+# CNN
+- [Deep convolutional networks do not classify based on global object shape](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006613#sec001) 
+ - 大域的な特徴をCNNは見ていないって話．
+ - [記事](https://ai-scholar.tech/others/cnn-shap-ai-110/)
+
+- [Adversarial Examples Are Not Bugs, They Are Features](http://gradientscience.org/adv/)
+ - 
+
+- [Style transferをResnet50でやってみた話．下の記事同様うまくいってない](https://github.com/Leo8216/Neural-Style-Transfer-using-ResNet50-with-tf.keras-)
+ - style transferは捉えてる特徴をみるツールになりうる．
+
+- [Neural Style Transfer with Adversarially Robust Classifiers](https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html)
+ - [この人のtwitter](https://twitter.com/reiinakano)
