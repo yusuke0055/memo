@@ -52,3 +52,5 @@ PSS + Style Transfer
 
 - [Neural Style Transfer with Adversarially Robust Classifiers](https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html)
  - [この人のtwitter](https://twitter.com/reiinakano)
+ 
+ 　(The Unreasonable Effectiveness of Deep Features as a Perceptual Metric)[http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf]
