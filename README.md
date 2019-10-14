@@ -22,8 +22,8 @@ spatial-frequency selective) linear filters
   - 16.[Texture Segregation and Orientation Gradient.](https://www.cns.nyu.edu/~msl/papers/landybergen91.pdf)
   - 20 .[Preattentive Texture Discrimination with Early Vision Mechanisms](https://pdfs.semanticscholar.org/d31b/ec7d4dcf257c2b24189005dcb441d707d9c2.pdf)
   - 32.[Texture discrimination by Gabor functions](https://link.springer.com/article/10.1007/BF00341922)
-  - [The Heeger-Bergen Pyramid-Based Texture Synthesis Algorithm](https://www.ipol.im/pub/art/2014/79/)
-
+  
+- [The Heeger-Bergen Pyramid-Based Texture Synthesis Algorithm](https://www.ipol.im/pub/art/2014/79/)
   - 上の論文のアルゴリズムを明確に示している．
 - [A parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients](https://www.researchgate.net/publication/2441269_A_Parametric_Texture_Model_Based_on_Joint_Statistics_of_Complex_Wavelet_Coefficients)
   - [python実装ブログ](https://www.eranger.co.jp/blog/advanced-technology/%E3%80%90ai%E3%82%A2%E3%83%BC%E3%83%88%E3%80%91portilla%E3%81%A8simoncelli%E3%81%AE%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E5%90%88%E6%88%90-a-parametric-texture-model-based-on-joint-statistics)
