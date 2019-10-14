@@ -28,6 +28,8 @@ spatial-frequency selective) linear filters
 - [A parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients](https://www.researchgate.net/publication/2441269_A_Parametric_Texture_Model_Based_on_Joint_Statistics_of_Complex_Wavelet_Coefficients)
   - [python実装ブログ](https://www.eranger.co.jp/blog/advanced-technology/%E3%80%90ai%E3%82%A2%E3%83%BC%E3%83%88%E3%80%91portilla%E3%81%A8simoncelli%E3%81%AE%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E5%90%88%E6%88%90-a-parametric-texture-model-based-on-joint-statistics)
 
+- [The steerable pyramid: A flexible architecture for multi-scale derivative computation](https://www.researchgate.net/publication/3666212_The_steerable_pyramid_A_flexible_architecture_for_multi-scale_derivative_computation)
+
 - [Simoncelliさんのスライド](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/unit-4.-visual-intelligence/MITRES_9_003SUM15_sem4-1.pdf)
   - おもしろそう
 
