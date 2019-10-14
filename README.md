@@ -19,8 +19,7 @@ spatial-frequency selective) linear filters
 テクスチャ識別の現在の理論は、2つのテクスチャが（方向および空間周波数選択性）線形フィルタのバンクで応答の同様の分布を生成する場合、識別が難しいことが多いという事実に基づいています[2、3、7、16、20 、32]。したがって、ここで説明する方法は、フィルター出力の分布（またはヒストグラム）を一致させることでテクスチャを合成します。このアプローチは、テクスチャ画像を特徴付けるすべての空間情報を、適切に選択された線形フィルタ出力のセットの1次統計でキャプチャできるという原則に基づいています（これは完全に正しいわけではありません）。それでも、このモデルは（不完全ではありますが）テクスチャプロパティの興味深いセットをキャプチャします。
 
 - 3.[Early Vision and Texture Perception](http://invibe.net/biblio_database_dyva/woda/data/att/b56c.file.pdf)
-- 7.[Orthogonal Distribution
-Analysis: A New Approach to the Study of Texture Perception.]
+- 7.[Orthogonal Distribution Analysis: A New Approach to the Study of Texture Perception.]
 (https://psycnet.apa.org/record/1991-98916-019)
 - 16.[Texture Segregation and Orientation Gradient.](https://www.cns.nyu.edu/~msl/papers/landybergen91.pdf)
 - 20 .[Preattentive Texture Discrimination with Early Vision Mechanisms](https://pdfs.semanticscholar.org/d31b/ec7d4dcf257c2b24189005dcb441d707d9c2.pdf)
