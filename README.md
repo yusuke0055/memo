@@ -8,7 +8,25 @@
 - [Pyramid-Based Texture Analysis/Synthesis](https://www.cns.nyu.edu/heegerlab/content/publications/Heeger-siggraph95.pdf) 
  - steerable pyramidを用いて，ヒストグラムマッチングという手法を用いて，
 texture合成を行っている．
+
+### 参考文献 
+Our approach is motivated by research on human texture perception.
+Current theories of texture discrimination are based on the fact that
+two textures are often difficult to discriminate when they produce
+a similar distribution of responses in a bank of (orientation and
+spatial-frequency selective) linear filters
+私たちのアプローチは、人間の質感知覚に関する研究によって動機付けられています。
+テクスチャ識別の現在の理論は、2つのテクスチャが（方向および空間周波数選択性）線形フィルタのバンクで応答の同様の分布を生成する場合、識別が難しいことが多いという事実に基づいています[2、3、7、16、20 、32]。したがって、ここで説明する方法は、フィルター出力の分布（またはヒストグラム）を一致させることでテクスチャを合成します。このアプローチは、テクスチャ画像を特徴付けるすべての空間情報を、適切に選択された線形フィルタ出力のセットの1次統計でキャプチャできるという原則に基づいています（これは完全に正しいわけではありません）。それでも、このモデルは（不完全ではありますが）テクスチャプロパティの興味深いセットをキャプチャします。
+
+- 3.[Early Vision and Texture Perception](http://invibe.net/biblio_database_dyva/woda/data/att/b56c.file.pdf)
+- 7.[Orthogonal Distribution
+Analysis: A New Approach to the Study of Texture Perception.]
+(https://psycnet.apa.org/record/1991-98916-019)
+- 16.[Texture Segregation and Orientation Gradient.](https://www.cns.nyu.edu/~msl/papers/landybergen91.pdf)
+- 20 .[Preattentive Texture Discrimination with Early Vision Mechanisms](https://pdfs.semanticscholar.org/d31b/ec7d4dcf257c2b24189005dcb441d707d9c2.pdf)
+- 32.[Texture discrimination by Gabor functions](https://link.springer.com/article/10.1007/BF00341922)
 - [The Heeger-Bergen Pyramid-Based Texture Synthesis Algorithm](https://www.ipol.im/pub/art/2014/79/)
+
  - 上の論文のアルゴリズムを明確に示している．
 - [A parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients](https://www.researchgate.net/publication/2441269_A_Parametric_Texture_Model_Based_on_Joint_Statistics_of_Complex_Wavelet_Coefficients)
  - [python実装ブログ](https://www.eranger.co.jp/blog/advanced-technology/%E3%80%90ai%E3%82%A2%E3%83%BC%E3%83%88%E3%80%91portilla%E3%81%A8simoncelli%E3%81%AE%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E5%90%88%E6%88%90-a-parametric-texture-model-based-on-joint-statistics)
@@ -38,6 +56,8 @@ PSS + Style Transfer
  - [日本語の解説記事](https://qiita.com/dsanno/items/97eb3a28f3614407a5c4)
 
 - [Texture Synthesis by Non-parametric Sampling](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/efros-iccv99.pdf)
+
+
 
 # CNN
 - [Deep convolutional networks do not classify based on global object shape](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006613#sec001) 
