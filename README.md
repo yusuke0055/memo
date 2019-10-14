@@ -1,13 +1,12 @@
 # Texture
 
-+ [mitの講義資料集](http://cvcl.mit.edu/sunslides/)
- + textureについてのスライドがある．
+* [mitの講義資料集](http://cvcl.mit.edu/sunslides/)
+ * textureについてのスライドがある．
 
-+ [Barkeleyの講義資料集](https://people.eecs.berkeley.edu/~trevor/CS280Notes/?C=N;O=A)
+* [Barkeleyの講義資料集](https://people.eecs.berkeley.edu/~trevor/CS280Notes/?C=N;O=A)
 
-+ [Pyramid-Based Texture Analysis/Synthesis](https://www.cns.nyu.edu/heegerlab/content/publications/Heeger-siggraph95.pdf) 
- + steerable pyramidを用いて，ヒストグラムマッチングという手法を用いて，
-texture合成を行っている．
+* [Pyramid-Based Texture Analysis/Synthesis](https://www.cns.nyu.edu/heegerlab/content/publications/Heeger-siggraph95.pdf) 
+ * steerable pyramidを用いて，ヒストグラムマッチングという手法を用いて，texture合成を行っている．
 
 ### 参考文献 
 Our approach is motivated by research on human texture perception.
