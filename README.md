@@ -22,7 +22,7 @@ spatial-frequency selective) linear filters
   - 16.[Texture Segregation and Orientation Gradient.](https://www.cns.nyu.edu/~msl/papers/landybergen91.pdf)
   - 20 .[Preattentive Texture Discrimination with Early Vision Mechanisms](https://pdfs.semanticscholar.org/d31b/ec7d4dcf257c2b24189005dcb441d707d9c2.pdf)
   - 32.[Texture discrimination by Gabor functions](https://link.springer.com/article/10.1007/BF00341922)
-  
+  - [Visual Perception of Texture](https://www.researchgate.net/publication/2385560_Visual_Perception_of_Texture)
 - [The Heeger-Bergen Pyramid-Based Texture Synthesis Algorithm](https://www.ipol.im/pub/art/2014/79/)
   - 上の論文のアルゴリズムを明確に示している．
 - [A parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients](https://www.researchgate.net/publication/2441269_A_Parametric_Texture_Model_Based_on_Joint_Statistics_of_Complex_Wavelet_Coefficients)
