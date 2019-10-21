@@ -74,5 +74,5 @@ PSS + Style Transfer
  
 -  [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf)
 
-- []What do Deep Networks Like to See?]
+- [What do Deep Networks Like to See?]
 (http://openaccess.thecvf.com/content_cvpr_2018/papers/Palacio_What_Do_Deep_CVPR_2018_paper.pdf)
