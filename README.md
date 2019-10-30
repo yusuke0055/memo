@@ -46,6 +46,8 @@ spatial-frequency selective) linear filters
 appearance for humans](https://jov.arvojournals.org/article.aspx?articleid=2657215)
   - Style Transferの著者もいる．style transferのstyle loss + power spectrumを導入してるぽい．
 PSS + Style Transfer
+- [Deep Correlations for Texture Synthesis](https://dl.acm.org/citation.cfm?id=3015461)
+
  - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
   - Style Transferを高速化しただけ．
 - [Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histgram Losses](https://arxiv.org/pdf/1701.08893.pdf)
