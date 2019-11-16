@@ -78,3 +78,7 @@ PSS + Style Transfer
 
 - [What do Deep Networks Like to See?]
 (http://openaccess.thecvf.com/content_cvpr_2018/papers/Palacio_What_Do_Deep_CVPR_2018_paper.pdf)
+
+# Memo
+- dVgg/dPss的なやつをみる
+- 
